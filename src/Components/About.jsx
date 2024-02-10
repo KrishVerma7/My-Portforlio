@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Android Development",
+  "Kotlin",
+  "Firebase",
+  "Graphic Desing",
+  "Microsoft Learn Student Ambassador",
+  "GDSC Kotlin Lead",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about developing mobile apps. I hosted a month long Android Development Bootcamp teaching and built an android community of over 250+ students along with building two real life working android apps. ";
 
 const About = () => {
   return (

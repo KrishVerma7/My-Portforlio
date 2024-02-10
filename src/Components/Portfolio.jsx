@@ -31,28 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "QuizMaster",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " QuizMaster is an android app that contains quizzes and shows your score after submitting the quiz. Supports user authentication and cloud storage.Technologies used: Android, Kotlin, XML,Firebase. ",
+    url: "https://github.com/KrishVerma7/QuizMaster",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Quotify",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An android app that allows users to explore and discover quotes from various famous persons.The app is built using the ViewModel architecture component to efficiently manage and present data to the user.Read JSON file from the Assets folder and parse JSON using GSON.Technologies used: Android, Kotlin, XML",
+    url: "https://github.com/KrishVerma7/Quotify",
+  },
+  
+  {
+    title: "Sensor-Play",
+    description:
+      " An Android APK implementing hardware sensors of mobile.Implemented proximity sensor and accelerometer.Technologies used: Android, Kotlin, XML",
+    url: "https://github.com/KrishVerma7/Sensor-Play",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
